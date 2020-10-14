@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "272833214536",
+    "firebase_url": "https://al-madina-taxi-8bbde.firebaseio.com",
+    "project_id": "al-madina-taxi-8bbde",
+    "storage_bucket": "al-madina-taxi-8bbde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272833214536:android:d1cdecabc13b0c1967007d",
+        "android_client_info": {
+          "package_name": "com.example.al_madina_taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272833214536-ek2j8dkikifhmloi1rn5bdbqcl1horc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.al_madina_taxi",
+            "certificate_hash": "8f1287842f1002541c5c35b4eb7d944ee9ff4a17"
+          }
+        },
+        {
+          "client_id": "272833214536-ilb0kaqa7rfkpc0ktvb91385ibv9v7bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCZteHVNUxA5rTOz6X7PDUXPStIzPQla4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272833214536-ilb0kaqa7rfkpc0ktvb91385ibv9v7bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
